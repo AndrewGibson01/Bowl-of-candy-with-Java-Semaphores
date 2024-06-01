@@ -1,6 +1,7 @@
 Sample Output:
 
-```Number of Faculty Members? 6
+```
+Number of Faculty Members? 6
 Number of Candy in the bowl? 10
 <Faculty 0> I have been born!
 <Faculty 1> I have been born!
@@ -59,4 +60,5 @@ The bowl has 7 pieces of candy.
 <Faculty 4> Fine! You can have it!
 <Faculty 3> MMM this is some good candy!
 The bowl has 6 pieces of candy.
+
 ```
